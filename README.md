@@ -67,26 +67,8 @@ I'm a **First-Class Honours Computer Systems Engineering graduate** with **3+ ye
 <tr>
 <td width="50%" align="center">
 
-### 🔮 Crypto Predictor
-
-**AI-Powered Bitcoin Price Prediction**
-
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-6366F1?style=for-the-badge)](https://mot-crypto-predictor.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Kcubez/crypto-predictor)
-
-`Next.js` `TypeScript` `Gemini AI` `PostgreSQL`
-
 </td>
 <td width="50%" align="center">
-
-### 📊 Genius Board
-
-**Sales Data Analysis Dashboard**
-
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-6366F1?style=for-the-badge)](https://genius-board.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Kcubez/sales-data-analysis-dashboard)
-
-`Next.js` `TypeScript` `Recharts` `TanStack Table`
 
 </td>
 </tr>
@@ -104,15 +86,6 @@ I'm a **First-Class Honours Computer Systems Engineering graduate** with **3+ ye
 
 </td>
 <td width="50%" align="center">
-
-### ✍️ MOT Genius AutoWriter
-
-**AI Content Generation Platform**
-
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-6366F1?style=for-the-badge)](https://mot-genius-autowriter.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Kcubez/mot-genius-autowriter-staging)
-
-`Flask` `Python` `Gemini AI` `Redis`
 
 </td>
 </tr>
