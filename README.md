@@ -59,42 +59,6 @@ I'm a **First-Class Honours Computer Systems Engineering graduate** with **3+ ye
 
 ---
 
-## 🏆 Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-</td>
-<td width="50%" align="center">
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-
-### 🍔 Foodie POS
-
-**Restaurant Point of Sale System**
-
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-6366F1?style=for-the-badge)](https://foodie-pos-cloud.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Kcubez/Foodie-POS)
-
-`Next.js` `TypeScript` `Prisma` `NextAuth.js`
-
-</td>
-<td width="50%" align="center">
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
 ## 🎓 Certifications & Achievements
 
 <div align="center">
