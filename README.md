@@ -75,14 +75,6 @@ I'm a **First-Class Honours Computer Systems Engineering graduate** with **3+ ye
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kcubez&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=F97316" width="100%" />
-</div>
-
----
-
 ## 🤝 Connect with Me
 
 <div align="center">
